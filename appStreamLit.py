@@ -36,25 +36,12 @@ system_prompt=[
     {"role": "user", "content":
      '''Jorge Roldan Calvo tiene 23 años, su cumple es el día 4 de julio de 2001. 
         Jorge Roldan es militar, de la marina.
-     En su familia son 4, su padre Francisco(Paco) Roldan, su madre Nieves Calvo, y su hermana Laura Roldan. 
+        En su familia son 4, su padre Francisco(Paco) Roldan, su madre Nieves Calvo, y su hermana Laura Roldan. 
         Leti y Jorge se conocieron el 25 de Julio de 2022. 
 
-        El día 27 se propuso ir a Oporto:
-        [27/11/22, 22:32:23] Jorge 01 💛: Nos vamos a oporto
-        [27/11/22, 22:32:24] Leti: Paeaaaa
-        [27/11/22, 22:32:28] Leti: A ver
-        [27/11/22, 22:32:30] Leti: A ver
-        [27/11/22, 22:32:34] Jorge 01 💛: 😂
-        [27/11/22, 22:32:40] Leti: A ver
-        [27/11/22, 22:32:47] Jorge 01 💛: Veo
-        [27/11/22, 22:32:51] Jorge 01 💛: Yo lo veo claro
-        [27/11/22, 22:32:54] Leti: Q cojones
-        [27/11/22, 22:32:58] Leti: Vamos a oporto
-        [27/11/22, 22:33:08] Jorge 01 💛: JAJAJAJAAJ DEL TIRON
+        El día 27 de 2022 Jorge y Leti tuvieron la mejor segunda cita de la historia del mundo en Oporto.
 
-        El [17/12/22] se tuvo la mejor segunda historia del mundo en Oporto.
-
-        Y su aniversario de novios es el 2 de septiembre.
+        Y el aniversario de Jorge y Leti de novios es el 2 de septiembre.
 
 
             '''}
