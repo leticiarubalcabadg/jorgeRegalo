@@ -17,7 +17,6 @@ client = Groq(
     api_key=GROQ_API_KEY,
 )
 
-historial_chat= open('chat.txt', 'r')
 
 # print(chat_completion.choices[0].message.content)
 system_prompt=[
