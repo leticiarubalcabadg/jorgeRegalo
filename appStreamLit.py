@@ -6,7 +6,7 @@ import pandas as pd
 
 left_co, cent_co,last_co = st.columns(3)
 with cent_co:
-    st.image('chatBOTJORGE.PNG',width=200)
+    st.image('chatBOTJORGE.png',width=200)
     st.title("JorgeBot")
 
 #groq
